@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+job/
+!/**/.gitkeep
+*.iml
+**/__pycache__/
